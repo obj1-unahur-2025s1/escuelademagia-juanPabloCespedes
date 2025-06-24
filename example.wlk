@@ -7,7 +7,7 @@ class CriaturaInmorible{
   method disminuirVida(cantidad){}
 }
 class Estudiante{
-  var salud
+  var salu
   var habilidad
   var property casa
   const sangrePura 
